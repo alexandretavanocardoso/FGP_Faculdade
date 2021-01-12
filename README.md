@@ -5,128 +5,134 @@
 
 **1º Semestre: Núcleo Instrumental**
 
-Empresas, Mercados e Negócios
+- Empresas, Mercados e Negócios
 
-Matemática Aplicada
+- Matemática Aplicada
 
-Comunicação Empresarial
+- Comunicação Empresarial
 
-Psicologia Aplicada
+- Psicologia Aplicada
 
-Fundamentos da Administração
+- Fundamentos da Administração
 
-Projeto Integrador
+- Projeto Integrador
 
-Atividades Complementares
+- Atividades Complementares
 
 **2º Semestre: Núcleo Instrumental**
 
-Algoritmos e Lógica de Programação
-Estatística Aplicada
-Desenvolvimento Humano e Profissional
-Fundamentos da WEB
-Filosofia e Ética profissional
-Projeto Integrador
-Atividades Complementares
+- Algoritmos e Lógica de Programação
+
+- Estatística Aplicada
+
+- Desenvolvimento Humano e Profissional
+
+- Fundamentos da WEB
+
+- Filosofia e Ética profissional
+
+- Projeto Integrador
+
+- Atividades Complementares
 
 **3º Semestre: Núcleo Instrumental**
 
-Fundamentos e Estrutura de Banco de Dados
+- Fundamentos e Estrutura de Banco de Dados
 
-Sistemas de Informações Gerenciais Integrados
+- Sistemas de Informações Gerenciais Integrados
 
-Engenharia de Software
+- Engenharia de Software
 
-Arquitetura e Organização de Computadores
+- Arquitetura e Organização de Computadores
 
-Sociologia e Relações Étnico Raciais EAD
+- Sociologia e Relações Étnico Raciais EAD
 
-Projeto Integrador
+- Projeto Integrador
 
-Atividades Complementares
+- Atividades Complementares
 
 **4º Semestre: Núcleo Instrumental**
 
-Introdução a Orientação por Objetos
+- Introdução a Orientação por Objetos
 
-Sistemas Operacionais
+- Sistemas Operacionais
 
-Tópicos em Engenharia de Software
+- Tópicos em Engenharia de Software
 
-Tópicos em Estrutura de Dados
+- Tópicos em Estrutura de Dados
 
-Fundamentos de Redes de Computadores EAD
+- Fundamentos de Redes de Computadores EAD
 
-Projeto Integrador
+- Projeto Integrador
   
-Atividades Complementares
+- Atividades Complementares
 
 **5º Semestre: Núcleo Instrumental**
 
-Gerenciamento e Monitoramento de Redes de
+- Gerenciamento e Monitoramento de Redes de
 Computadores
 
-Gerenciamento e Segurança de Banco de Dados
+- Gerenciamento e Segurança de Banco de Dados
 
-Desenvolvimento de Software para WEB e
+- Desenvolvimento de Software para WEB e
 Dispositivos Móveis
 
-Governança Corporativa
+- Governança Corporativa
 
-Empreendedorismo – EAD
+- Empreendedorismo – EAD
 
-Projeto Integrador
+- Projeto Integrador
 
-Atividades Complementares
+- Atividades Complementares
 
 **6º Semestre: Núcleo Instrumental**
 
-Computação Cognitiva e Semântica
+- Computação Cognitiva e Semântica
 
-Business Intelligence e Big Data Analycts
+- Business Intelligence e Big Data Analycts
 
-Design para WEB
+- Design para WEB
 
-Gestão de Projetos
+- Gestão de Projetos
 
-Marketing Digital – EAD
+- Marketing Digital – EAD
 
-Projeto Integrador
+- Projeto Integrador
 
 Atividades Complementares
 
 **7º Semestre: Núcleo Instrumental**
 
-Integração Entre Sistemas Computacionais
+- Integração Entre Sistemas Computacionais
 
-Trabalho Conclusão de Curso I
+- Trabalho Conclusão de Curso I
 
-Orientação Estagio Supervisionado -EAD
+- Orientação Estagio Supervisionado -EAD
 
-Gestão Ambiental – EAD
+- Gestão Ambiental – EAD
 
-Negociação e Resolução de Conflitos
+- Negociação e Resolução de Conflitos
 
-Estagio Supervisionado
+- Estagio Supervisionado
 
-Projeto Integrador
+- Projeto Integrador
 
-Atividades Complementares
+- Atividades Complementares
 
 **8º Semestre: Núcleo Instrumental**
 
-Arquitetura Orientada a Serviço e WEBSERVICE
+- Arquitetura Orientada a Serviço e WEBSERVICE
 
-Administração de Recursos Humanos – EAD
+- Administração de Recursos Humanos – EAD
 
-Inovação e Negócios
+- Inovação e Negócios
 
-Trabalho de Conclusão de Curso II
+- Trabalho de Conclusão de Curso II
 
-Orientação Estagio Supervisionado EAD
+- Orientação Estagio Supervisionado EAD
 
-Estagio Supervisionado
+- Estagio Supervisionado
 
-Projeto Integrador
+- Projeto Integrador
 
-Atividades Complementares
+- Atividades Complementares
