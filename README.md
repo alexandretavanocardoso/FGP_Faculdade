@@ -1,22 +1,50 @@
-**1º Semestre: Núcleo Instrumental**        **2º Semestre: Núcleo Instrumentl**
-Empresas, Mercados e Negócios            Algoritmos e Lógica de Programação
-Matemática Aplicada                     Estatística Aplicada
-Comunicação Empresarial                 Desenvolvimento Humano e Profissional
-Psicologia Aplicada                     Fundamentos da WEB
-Fundamentos da Administração            Filosofia e Ética profissional
-Projeto Integrador                      Projeto Integrador
-Atividades Complementares               Atividades Complementares
+<p align="center">
+  <img width="1200" height="350" src="https://media-exp1.licdn.com/dms/image/C4D0BAQF0sIlZSx6Ksg/company-logo_200_200/0/1569524830495?e=2159024400&v=beta&t=-ldDhJvBP8bjSTKjZHNj9XYjVqaLK-dPWsvhQDk6F9g">
+</p>
 
-**3º Semestre: Núcleo Instrumental**                         **4º Semestre: Núcleo Instrumental**                                                     
-Fundamentos e Estrutura de Banco de Dados                 Introdução a Orientação por Objetos
-Sistemas de Informações Gerenciais Integrados             Sistemas Operacionais
-Engenharia de Software                                    Tópicos em Engenharia de Software
-Arquitetura e Organização de Computadores                 Tópicos em Estrutura de Dados
-Sociologia e Relações Étnico Raciais EAD                  Fundamentos de Redes de Computadores EAD
-Projeto Integrador                                        Projeto Integrador
-Atividades Complementares                                 Atividades Complementares
+
+**1º Semestre: Núcleo Instrumental**
+
+Empresas, Mercados e Negócios
+Matemática Aplicada
+Comunicação Empresarial
+Psicologia Aplicada
+Fundamentos da Administração
+Projeto Integrador
+Atividades Complementares
+
+**2º Semestre: Núcleo Instrumental**
+
+Algoritmos e Lógica de Programação
+Estatística Aplicada
+Desenvolvimento Humano e Profissional
+Fundamentos da WEB
+Filosofia e Ética profissional
+Projeto Integrador
+Atividades Complementares
+
+**3º Semestre: Núcleo Instrumental**
+
+Fundamentos e Estrutura de Banco de Dados
+Sistemas de Informações Gerenciais Integrados
+Engenharia de Software
+Arquitetura e Organização de Computadores
+Sociologia e Relações Étnico Raciais EAD
+Projeto Integrador
+Atividades Complementares
+
+**4º Semestre: Núcleo Instrumental**
+
+Introdução a Orientação por Objetos
+Sistemas Operacionais
+Tópicos em Engenharia de Software
+Tópicos em Estrutura de Dados
+Fundamentos de Redes de Computadores EAD
+Projeto Integrador
+Atividades Complementares
 
 **5º Semestre: Núcleo Instrumental**
+
 Gerenciamento e Monitoramento de Redes de
 Computadores
 Gerenciamento e Segurança de Banco de Dados
